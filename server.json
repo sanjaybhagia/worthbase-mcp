@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.worthbase/worthbase",
+  "title": "Worthbase",
+  "description": "Household net worth and portfolio tracker your AI keeps: priced daily, previewed and undoable.",
+  "version": "1.0.1",
+  "websiteUrl": "https://worthbase.app",
+  "icons": [
+    { "src": "https://worthbase.app/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
+    { "src": "https://worthbase.app/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://worthbase.app/mcp" }
+  ],
+  "repository": {
+    "url": "https://github.com/sanjaybhagia/worthbase-mcp",
+    "source": "github"
+  }
+}

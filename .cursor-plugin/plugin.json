@@ -1,0 +1,9 @@
+{
+  "name": "worthbase",
+  "version": "1.0.0",
+  "description": "Your household's net worth in Cursor: shares, crypto, property, retirement accounts, cash and loans, priced daily, with exact gains, returns and goals. Imports are previewed and undoable. Sign in with your Worthbase account.",
+  "author": { "name": "Arigato Consulting Pty Ltd", "email": "support@worthbase.app" },
+  "homepage": "https://worthbase.app",
+  "license": "MIT",
+  "logo": "assets/logo-400.png"
+}

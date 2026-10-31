@@ -1,0 +1,11 @@
+{
+  "name": "worthbase",
+  "version": "1.0.0",
+  "description": "Your household's net worth: holdings, property, retirement accounts, cash and loans, priced daily, with exact gains, returns and goals. Sign in with your Worthbase account.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "worthbase": {
+      "httpUrl": "https://worthbase.app/mcp"
+    }
+  }
+}
